@@ -16,7 +16,8 @@ export default {
     flexDirection: 'column',
     flex: 0.9,
     fontSize: '22px',
-    overflow: 'hidden'
+    overflow: 'hidden',
+    alignItems: 'center'
   },
   cardHeader: {
     flex: '0.1 1 auto',
@@ -51,7 +52,8 @@ export default {
     textAlign: 'center',
     padding: '4px',
     maxHeight: '20vh',
-    userSelect: 'none'
+    userSelect: 'none',
+    maxWidth: '600px'
   },
   buttons: {
     minHeight: '60px',
