@@ -1,6 +1,6 @@
 {
   "name": "react-simple-intro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An intro component for React.",
   "main": "build/index.js",
   "scripts": {
@@ -35,5 +35,16 @@
     "plugins": [
       "@babel/plugin-proposal-class-properties"
     ]
-  }
+  },
+  "keywords": [
+    "react",
+    "intro",
+    "simple",
+    "demo",
+    "slider",
+    "swiper",
+    "responsive",
+    "component",
+    "react-component"
+  ]
 }
