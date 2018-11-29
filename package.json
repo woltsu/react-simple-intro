@@ -1,6 +1,6 @@
 {
   "name": "react-simple-intro",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "An intro component for React.",
   "main": "build/index.js",
   "scripts": {
@@ -46,5 +46,6 @@
     "responsive",
     "component",
     "react-component"
-  ]
+  ],
+  "homepage": "https://github.com/woltsu/react-simple-intro"
 }
