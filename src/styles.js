@@ -7,7 +7,8 @@ export default {
     bottom: 0,
     display: 'flex',
     flexDirection: 'column',
-    color: 'white'
+    color: 'white',
+    zIndex: 1000
   },
   cardContainer: {
     height: '100vh',
@@ -56,9 +57,7 @@ export default {
     maxWidth: '600px'
   },
   buttons: {
-    minHeight: '60px',
     minHeight: '10%',
-    minHeight: '80px'
   },
   slideButton: {
     display: 'flex',
