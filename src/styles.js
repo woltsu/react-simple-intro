@@ -34,14 +34,14 @@ export default {
     display: 'flex',
     alignItems: 'center',
     justifyContent: 'center',
-    padding: '8px',
     maxHeight: '70vh'
   },
   cardImage: {
     maxHeight: '100%',
     maxWidth: '100%',
     height: 'auto',
-    width: 'auto'
+    width: 'auto',
+    objectFit: 'contain'
   },
   cardContent: {
     flex: '0.2 1 auto',
